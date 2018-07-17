@@ -1,5 +1,5 @@
 /*
- * More Simple API for HTML
+ * More Simple API for HTML/XML
  * 非常に効率は悪いが巨大なhtmlでも僅かなバッファでパースができる
  * It's very inefficient but you can parse with a small buffer even with huge html
  *
