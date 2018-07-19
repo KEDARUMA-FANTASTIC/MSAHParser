@@ -1,0 +1,21 @@
+{
+  "name": "MSAHParser",
+  "keywords": "More Simple API for HTML/XML",
+  "description": "Processing is slow but you can analyze even huge HTML/XML",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/KEDARUMA-FANTASTIC/MSAHParser"
+  },
+  "authors": [
+    {
+      "maintainer": true,
+      "name": "KEDARUMA FANTASTIC",
+      "url": "https://trello.com/b/Cinkg2yQ/%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BD%9C%E3%81%BE%E3%81%A8%E3%82%81-electronic-work",
+      "email": "kedaruma.fantastic@gmail.com"
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*",
+  "version": "0.0.1"
+}
